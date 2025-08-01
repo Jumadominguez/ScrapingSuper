@@ -1,0 +1,12 @@
+﻿ID_Producto,Categoria,Nombre,Precio_de_lista,Precio_de_oferta,Precio_float,Fecha,Fuente,EsOferta,Oferta
+P1,General,Lavarropas cf inverter Smartlife 6kg sl-wmi061000w,"$649.000,00",,649000.0,2025-07-31,Home Carrefour,False,12 CSI MI CARREFOUR CRÉDITO
+P2,General,"Smart TV LED 4K Philips 70"" con Ambilight- 70PUD7908/77","$1.499.000,00","$1.399.000,00",1399000.0,2025-07-31,Home Carrefour,True,12 CSI MI CARREFOUR CRÉDITO
+P3,General,"Smart tv android 50"" Hyundai 4k hyled hyled 50uhd7a","$719.000,00",,719000.0,2025-07-31,Home Carrefour,False,12 CSI MI CARREFOUR CRÉDITO
+P4,General,"Lavarropas 6,5 Kg Blanco Drean Concept Neo Fuzzy 658 B","$811.199,00","$459.999,00",459999.0,2025-07-31,Home Carrefour,True,
+P5,General,"Air Fryer BGH 5,2 litros BAF52N24","$198.999,00","$116.599,00",116599.0,2025-07-31,Home Carrefour,True,
+P6,General,Barra de Sonido 240W Subwoofer Hisense HS2100,"$449.999,00","$183.999,00",183999.0,2025-07-31,Home Carrefour,True,
+P7,General,Airfryer Suono 3.8l digital hog0154,"$139.000,00","$104.250,00",104250.0,2025-07-31,Home Carrefour,True,6 CSI MI CARREFOUR CRÉDITO
+P8,General,Tostadora Bluesky BT870SR-17,"$35.000,00","$26.250,00",26250.0,2025-07-31,Home Carrefour,True,6 CSI MI CARREFOUR CRÉDITO
+P9,General,Yogurtera Bluesky BYM07- blanco,"$63.000,00","$47.250,00",47250.0,2025-07-31,Home Carrefour,True,6 CSI MI CARREFOUR CRÉDITO
+P10,Almacén,Aceite de girasol Carrefour Classic alto omega pet 900 cc.,"$1.990,00","$1.830,80",1830.8,2025-07-31,Almacén Carrefour,True,MI CRF
+P11,Almacén,Lomitos de atún Carrefour al natural 170 g.,"$2.690,00","$2.474,80",2474.8,2025-07-31,Almacén Carrefour,True,MI CRF

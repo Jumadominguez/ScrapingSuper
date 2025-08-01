@@ -1,0 +1,17 @@
+﻿ID_Producto,Categoria,Nombre,Precio_de_lista,Precio_de_oferta,Precio_float,Fecha,Fuente,EsOferta,Oferta
+P1,Almacén,Aceite de girasol Carrefour Classic alto omega pet 900 cc.,"$1.990,00","$1.830,80",1830.8,2025-07-31,Almacén Carrefour,True,MI CRF
+P2,Almacén,Lomitos de atún Carrefour al natural 170 g.,"$2.690,00","$2.474,80",2474.8,2025-07-31,Almacén Carrefour,True,MI CRF
+P3,Almacén,Puré de tomate Carrefour classic 520 g.,"$799,00","$719,10",719.1,2025-07-31,Almacén Carrefour,True,MI CRF
+P4,Almacén,Arroz largo fino Molinos Ala 1 kg.,"$1.710,00",,1710.0,2025-07-31,Almacén Carrefour,False,
+P5,Almacén,Puré de tomate Arcor brik 520 g.,"$949,00","$712,00",712.0,2025-07-31,Almacén Carrefour,True,
+P6,Almacén,Aceite de girasol Natura 1.5 l.,"$4.595,00","$3.676,00",3676.0,2025-07-31,Almacén Carrefour,True,
+P7,Almacén,Caldo Knorr de verdura deshidratado 12 cubos,"$2.289,00","$1.487,85",1487.85,2025-07-31,Almacén Carrefour,True,2DO AL 70% MAX 6 UNIDADES IGUALES
+P8,Almacén,Puré de tomate La Campagnola tetra 530 g.,"$1.005,00",,1005.0,2025-07-31,Almacén Carrefour,False,
+P9,Almacén,Sal fina Celusal paquete 500 g.,"$1.275,00",,1275.0,2025-07-31,Almacén Carrefour,False,
+P10,Almacén,Aceite de girasol alto omega Carrefour pet 1.5 l.,"$3.490,00","$3.245,70",3245.7,2025-07-31,Almacén Carrefour,True,MI CRF
+P11,Almacén,Vinagre de alcohol Carrefour classic 1 l.,"$1.110,00","$999,00",999.0,2025-07-31,Almacén Carrefour,True,MI CRF
+P12,Almacén,Fideos tirabuzones N28 Matarazzo 500 g.,"$1.599,00","$1.039,35",1039.35,2025-07-31,Almacén Carrefour,True,2DO AL 70% MAX 6 UNIDADES IGUALES
+P13,Almacén,Puré de tomates Bulnez 520 g.,"$699,00",,699.0,2025-07-31,Almacén Carrefour,False,
+P14,Almacén,Polenta instantánea Presto Pronta bolsa 730 g.,"$1.895,00",,1895.0,2025-07-31,Almacén Carrefour,False,
+P15,Almacén,Harina de Trigo 000 Caserita x 1 kg,"$829,00",,829.0,2025-07-31,Almacén Carrefour,False,
+P16,Almacén,Arroz largo fino 00000 Carrefour Classic en bolsa 1 kg.,"$1.250,00","$1.150,00",1150.0,2025-07-31,Almacén Carrefour,True,MI CRF

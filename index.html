@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Comparador de Precios</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+  th.col-scrapingsuper, td.col-scrapingsuper {
+    border-left: 10px solid #dee2e6;
+    background-color: #f5fdf7;
+    text-align: center;
+  }
+
+  th.col-separada, td.col-mejor {
+    border-right: 10px solid #dee2e6;
+    text-align: center;
+  }
+</style>
+</head>
+<body class="bg-light">
+
+  <div class="container my-5">
+    <h2 class="mb-4">🛒 Comparador de Precios entre Supermercados</h2>
+
+    <!-- Selector de Supermercados -->
+    <div class="d-flex flex-wrap gap-4 align-items-center mb-4">
+      <!-- Ejemplo con Jumbo -->
+      <div class="text-center">
+        <label class="form-check-label" for="jumbo">
+          <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062012/jumbo.ai-converted.png?itok=DOJCOqET" alt="Jumbo" width="80"><br>
+          <input class="form-check-input mt-2" type="checkbox" id="jumbo" checked><br>
+          <span>Jumbo</span>
+        </label>
+      </div>
+
+      <!-- Coto -->
+      <div class="text-center">
+        <label class="form-check-label" for="coto">
+          <img src="https://w7.pngwing.com/pngs/294/799/png-transparent-coto-hd-logo.png" alt="Coto" width="80"><br>
+          <input class="form-check-input mt-2" type="checkbox" id="coto" checked><br>
+          <span>Coto</span>
+        </label>
+      </div>
+
+      <!-- Carrefour -->
+      <div class="text-center">
+        <label class="form-check-label" for="carrefour">
+          <img src="https://w7.pngwing.com/pngs/871/662/png-transparent-carrefour-logo-retail-cdr-voucher-text-supermarket-area-thumbnail.png" alt="Carrefour" width="80"><br>
+          <input class="form-check-input mt-2" type="checkbox" id="carrefour" checked><br>
+          <span>Carrefour</span>
+        </label>
+      </div>
+
+      <!-- Disco -->
+      <div class="text-center">
+        <label class="form-check-label" for="disco">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Disco-Supermarket-Logo.svg/2048px-Disco-Supermarket-Logo.svg.png" alt="Disco" width="80"><br>
+          <input class="form-check-input mt-2" type="checkbox" id="disco" checked><br>
+          <span>Disco</span>
+        </label>
+      </div>
+
+      <!-- Vea -->
+      <div class="text-center">
+        <label class="form-check-label" for="vea">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_Vea_Cencosud.png" alt="Vea" width="80"><br>
+          <input class="form-check-input mt-2" type="checkbox" id="vea" checked><br>
+          <span>Vea</span>
+        </label>
+      </div>
+    </div>
+    </div>
+
+    <!-- Carga de productos -->
+    <div class="container mb-4">
+      <h5>📋 Cargá tus productos para comparar</h5>
+      <div class="row g-2 mb-2">
+        <div class="col-md-4">
+          <input type="text" class="form-control" id="producto" placeholder="Producto (ej: Arroz largo fino)">
+        </div>
+        <div class="col-md-4">
+          <input type="text" class="form-control" id="marca" placeholder="Marca (ej: Molinos Ala)">
+        </div>
+        <div class="col-md-4">
+          <input type="text" class="form-control" id="presentacion" placeholder="Presentación (ej: 1kg)">
+        </div>
+      </div>
+
+      <button type="button" class="btn btn-success mb-3" onclick="agregarProducto()">➕ Agregar producto</button>
+
+      <ul class="list-group mb-3" id="lista-productos"></ul>
+
+      <button type="button" class="btn btn-primary" onclick="compararProductos()">🔍 Comparar productos</button>
+    </div>
+
+    <!-- Resultados -->
+      <div class="container mt-5">
+      <div id="resultados">
+     <!-- tabla -->
+   </div>
+</div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="js/functions.js"></script>
+</body>
