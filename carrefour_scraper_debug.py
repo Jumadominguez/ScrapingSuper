@@ -1,5 +1,4 @@
-# Script completo de scraping de Carrefour con debug incluido
-script_content = '''#!/usr/bin/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 import csv
@@ -298,7 +297,7 @@ def extract_all_categories(driver):
                     print(f"  ❌ No se pudo extraer el nombre de la categoría {i}: {str(e)}")
                     continue
         
-        print(f"\\n📊 Total de registros extraídos: {len(csv_data)}")
+        print(f"\n📊 Total de registros extraídos: {len(csv_data)}")
         
     except Exception as e:
         print(f"❌ Error general extrayendo categorías: {str(e)}")
@@ -348,7 +347,7 @@ def scrape_carrefour_categories():
         else:
             print("❌ No se pudo abrir el menú")
             
-        print(f"\\n📊 Resumen final: {len(csv_data)} registros extraídos")
+        print(f"\n📊 Resumen final: {len(csv_data)} registros extraídos")
         
     except Exception as e:
         print(f"❌ Error general: {str(e)}")
@@ -384,12 +383,12 @@ def save_to_csv(data, filename="carrefour_categorias_completo.csv"):
         categories = set(row['Categoria'] for row in data)
         subcategories = set(row['Subcategoria'] for row in data if row['Subcategoria'])
         
-        print(f"\\n📈 Estadísticas:")
+        print(f"\n📈 Estadísticas:")
         print(f"  📂 Categorías principales: {len(categories)}")
         print(f"  📁 Subcategorías: {len(subcategories)}")
         
         # Mostrar muestra de los datos
-        print(f"\\n📋 Muestra de los primeros 20 registros:")
+        print(f"\n📋 Muestra de los primeros 20 registros:")
         print("-" * 80)
         for i, row in enumerate(data[:20], 1):
             print(f"{i:2d}. {row['Categoria']:<30} | {row['Subcategoria']:<25} | {row['Subseccion']}")
@@ -425,33 +424,12 @@ def main():
     # Guardar resultados
     if data:
         save_to_csv(data)
-        print("\\n🎉 ¡Scraping completado exitosamente!")
-        print("\\n📄 El archivo CSV está listo para usar.")
+        print("\n🎉 ¡Scraping completado exitosamente!")
+        print("\n📄 El archivo CSV está listo para usar.")
         print("📸 Revisá debug_menu.png y debug_menu.html para ver qué encontró el script.")
     else:
-        print("\\n❌ No se pudieron extraer datos")
+        print("\n❌ No se pudieron extraer datos")
         print("📸 Revisá debug_menu.png y debug_menu.html para ver qué pasó.")
 
 if __name__ == "__main__":
     main()
-'''
-
-# Guardar el script completo con debug
-with open('carrefour_scraper_debug.py', 'w', encoding='utf-8') as f:
-    f.write(script_content)
-
-print("✅ Script completo con DEBUG creado: carrefour_scraper_debug.py")
-print("\n🚀 Para ejecutarlo, usá:")
-print("python3 carrefour_scraper_debug.py")
-print("\n🎯 Características del script con DEBUG:")
-print("- Hace clic en el botón hamburguesa específico")
-print("- Toma screenshot después de abrir el menú")
-print("- Guarda el HTML completo para análisis")
-print("- Usa múltiples selectores como fallback")
-print("- Extrae TODAS las categorías principales")
-print("- Busca subcategorías con hover")
-print("- Modo headless optimizado")
-print("- Manejo robusto de errores")
-print("\n📸 Después de ejecutar, revisá:")
-print("- debug_menu.png (screenshot del menú abierto)")
-print("- debug_menu.html (HTML completo para análisis)")
