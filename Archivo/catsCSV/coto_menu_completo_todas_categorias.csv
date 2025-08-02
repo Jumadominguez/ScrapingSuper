@@ -1,0 +1,229 @@
+Supermercado,Categoria,Subcategoria,Subseccion
+Coto,Ofertas,Ofertas de la semana,
+Coto,Ofertas,2x1,
+Coto,Ofertas,30% OFF,
+Coto,Almacén,Aceites y Vinagres,Aceite de Girasol
+Coto,Almacén,Aceites y Vinagres,Aceite de Oliva
+Coto,Almacén,Aceites y Vinagres,Aceite de Maíz
+Coto,Almacén,Aceites y Vinagres,Aceite de Soja
+Coto,Almacén,Aceites y Vinagres,Vinagre
+Coto,Almacén,Aceites y Vinagres,Aceto Balsámico
+Coto,Almacén,Aderezos,Mayonesa
+Coto,Almacén,Aderezos,Ketchup
+Coto,Almacén,Aderezos,Mostaza
+Coto,Almacén,Aderezos,Salsas
+Coto,Almacén,Aderezos,Otros Aderezos
+Coto,Almacén,Arroz y Legumbres,Arroz
+Coto,Almacén,Arroz y Legumbres,Legumbres
+Coto,Almacén,Arroz y Legumbres,Arroz Listo
+Coto,Almacén,Conservas,Conservas de Pescado
+Coto,Almacén,Conservas,Conservas de Verduras
+Coto,Almacén,Conservas,Conservas de Frutas
+Coto,Almacén,Conservas,Conservas de Carne
+Coto,Almacén,Desayuno y Merienda,Café
+Coto,Almacén,Desayuno y Merienda,Té
+Coto,Almacén,Desayuno y Merienda,Yerba
+Coto,Almacén,Desayuno y Merienda,Cacao
+Coto,Almacén,Desayuno y Merienda,Mermeladas
+Coto,Almacén,Desayuno y Merienda,Dulce de Leche
+Coto,Almacén,Desayuno y Merienda,Azúcar
+Coto,Almacén,Desayuno y Merienda,Edulcorantes
+Coto,Almacén,Desayuno y Merienda,Galletitas Dulces
+Coto,Almacén,Desayuno y Merienda,Galletitas Saladas
+Coto,Almacén,Desayuno y Merienda,Cereales
+Coto,Almacén,Desayuno y Merienda,Barritas
+Coto,Almacén,Desayuno y Merienda,Bizcochuelos y Budines
+Coto,Almacén,Desayuno y Merienda,Tostadas y Grisines
+Coto,Almacén,Desayuno y Merienda,Pan Dulce
+Coto,Almacén,Desayuno y Merienda,Pan de Molde
+Coto,Almacén,Desayuno y Merienda,Pan Rallado
+Coto,Almacén,Desayuno y Merienda,Rebozadores
+Coto,Almacén,Desayuno y Merienda,Otros Panificados
+Coto,Almacén,Golosinas y Chocolates,Chocolates
+Coto,Almacén,Golosinas y Chocolates,Caramelos
+Coto,Almacén,Golosinas y Chocolates,Chicles
+Coto,Almacén,Golosinas y Chocolates,Turrones
+Coto,Almacén,Golosinas y Chocolates,Alfajores
+Coto,Almacén,Golosinas y Chocolates,Bocaditos
+Coto,Almacén,Golosinas y Chocolates,Bombones
+Coto,Almacén,Golosinas y Chocolates,Gomitas
+Coto,Almacén,Golosinas y Chocolates,Otros
+Coto,Almacén,Harinas y Premezclas,Harinas
+Coto,Almacén,Harinas y Premezclas,Premezclas
+Coto,Almacén,Harinas y Premezclas,Polenta
+Coto,Almacén,Harinas y Premezclas,Avena
+Coto,Almacén,Harinas y Premezclas,Sémola
+Coto,Almacén,Pastas Secas y Salsas,Pastas Secas
+Coto,Almacén,Pastas Secas y Salsas,Salsas
+Coto,Almacén,Pastas Secas y Salsas,Pastas Listas
+Coto,Almacén,"Sopas, Caldos y Puré",Sopas
+Coto,Almacén,"Sopas, Caldos y Puré",Caldos
+Coto,Almacén,"Sopas, Caldos y Puré",Puré
+Coto,Almacén,Snacks,Papas Fritas
+Coto,Almacén,Snacks,Palitos
+Coto,Almacén,Snacks,Maní
+Coto,Almacén,Snacks,Frutos Secos
+Coto,Almacén,Snacks,Snacks de Maíz
+Coto,Almacén,Snacks,Otros Snacks
+Coto,Bebidas,Aguas,Aguas Sin Gas
+Coto,Bebidas,Aguas,Aguas Con Gas
+Coto,Bebidas,Aguas,Aguas Saborizadas
+Coto,Bebidas,Gaseosas,Cola
+Coto,Bebidas,Gaseosas,Naranja
+Coto,Bebidas,Gaseosas,Pomelo
+Coto,Bebidas,Gaseosas,Lima Limón
+Coto,Bebidas,Gaseosas,Tónica
+Coto,Bebidas,Gaseosas,Guaraná
+Coto,Bebidas,Jugos,Jugos en Polvo
+Coto,Bebidas,Jugos,Jugos Listos
+Coto,Bebidas,Jugos,Granadina
+Coto,Bebidas,Jugos,Frescos
+Coto,Bebidas,Energizantes,
+Coto,Bebidas,Isotónicas,
+Coto,Bebidas,Cerveza,
+Coto,Bebidas,Vinos,Vinos Tintos
+Coto,Bebidas,Vinos,Vinos Blancos
+Coto,Bebidas,Vinos,Vinos Rosados
+Coto,Bebidas,Vinos,Vinos Espumantes
+Coto,Bebidas,Vinos,Vinos Frizantes
+Coto,Bebidas,Sidras,
+Coto,Bebidas,Champagnes,
+Coto,Bebidas,Aperitivos,
+Coto,Bebidas,Licores,
+Coto,Bebidas,Bebidas Blancas,
+Coto,Bebidas,Whiskys,
+Coto,Bebidas,Hielo,
+Coto,Frescos,Lácteos,Leche
+Coto,Frescos,Lácteos,Yogur
+Coto,Frescos,Lácteos,Postres
+Coto,Frescos,Lácteos,Dulce de Leche
+Coto,Frescos,Lácteos,Manteca y Margarina
+Coto,Frescos,Lácteos,Cremas
+Coto,Frescos,Lácteos,Quesos
+Coto,Frescos,Fiambres,Jamón
+Coto,Frescos,Fiambres,Salame
+Coto,Frescos,Fiambres,Mortadela
+Coto,Frescos,Fiambres,Panceta
+Coto,Frescos,Fiambres,Otros Fiambres
+Coto,Frescos,Huevos,
+Coto,Frescos,Pastas Frescas,Ravioles
+Coto,Frescos,Pastas Frescas,Sorrentinos
+Coto,Frescos,Pastas Frescas,Tallarines
+Coto,Frescos,Pastas Frescas,Ñoquis
+Coto,Frescos,Pastas Frescas,Canelones
+Coto,Frescos,Pastas Frescas,Tapas
+Coto,Frescos,Pastas Frescas,Otros
+Coto,Congelados,Comidas Congeladas,Pizzas
+Coto,Congelados,Comidas Congeladas,Empanadas
+Coto,Congelados,Comidas Congeladas,Tartas
+Coto,Congelados,Comidas Congeladas,Hamburguesas
+Coto,Congelados,Comidas Congeladas,Milanesas
+Coto,Congelados,Comidas Congeladas,Otros
+Coto,Congelados,Verduras Congeladas,
+Coto,Congelados,Frutas Congeladas,
+Coto,Congelados,Papas Congeladas,
+Coto,Congelados,Pescados y Mariscos,
+Coto,Congelados,Pollo y Carnes,
+Coto,Congelados,Helados y Postres,
+Coto,Limpieza,Limpieza de Ropa,Jabón en Polvo
+Coto,Limpieza,Limpieza de Ropa,Jabón Líquido
+Coto,Limpieza,Limpieza de Ropa,Suavizante
+Coto,Limpieza,Limpieza de Ropa,Quitamanchas
+Coto,Limpieza,Limpieza de Ropa,Blanqueador
+Coto,Limpieza,Limpieza de Ropa,Aditivos
+Coto,Limpieza,Limpieza de Ropa,Jabón en Pan
+Coto,Limpieza,Limpieza de Ropa,Otros
+Coto,Limpieza,Limpieza de Cocina,Detergente
+Coto,Limpieza,Limpieza de Cocina,Limpiavidrios
+Coto,Limpieza,Limpieza de Cocina,Desengrasante
+Coto,Limpieza,Limpieza de Cocina,Limpiadores
+Coto,Limpieza,Limpieza de Cocina,Otros
+Coto,Limpieza,Limpieza de Baño,Desinfectante
+Coto,Limpieza,Limpieza de Baño,Limpia Inodoros
+Coto,Limpieza,Limpieza de Baño,Pastillas
+Coto,Limpieza,Limpieza de Baño,Otros
+Coto,Limpieza,Limpieza de Pisos y Muebles,Limpiadores de Pisos
+Coto,Limpieza,Limpieza de Pisos y Muebles,Lustramuebles
+Coto,Limpieza,Limpieza de Pisos y Muebles,Ceras
+Coto,Limpieza,Limpieza de Pisos y Muebles,Otros
+Coto,Limpieza,Insecticidas,
+Coto,Limpieza,Papeles,Papel Higiénico
+Coto,Limpieza,Papeles,Rollos de Cocina
+Coto,Limpieza,Papeles,Servilletas
+Coto,Limpieza,Papeles,Pañuelos
+Coto,Limpieza,Accesorios de Limpieza,Escobas
+Coto,Limpieza,Accesorios de Limpieza,Trapos
+Coto,Limpieza,Accesorios de Limpieza,Esponjas
+Coto,Limpieza,Accesorios de Limpieza,Guantes
+Coto,Limpieza,Accesorios de Limpieza,Otros
+Coto,Perfumería,Cuidado Capilar,Shampoo
+Coto,Perfumería,Cuidado Capilar,Acondicionador
+Coto,Perfumería,Cuidado Capilar,Tratamientos
+Coto,Perfumería,Cuidado Capilar,Coloración
+Coto,Perfumería,Cuidado Capilar,Fijadores
+Coto,Perfumería,Cuidado Capilar,Otros
+Coto,Perfumería,Cuidado de la Piel,Cremas
+Coto,Perfumería,Cuidado de la Piel,Lociones
+Coto,Perfumería,Cuidado de la Piel,Desmaquillantes
+Coto,Perfumería,Cuidado de la Piel,Otros
+Coto,Perfumería,Cuidado Personal,Desodorantes
+Coto,Perfumería,Cuidado Personal,Jabones
+Coto,Perfumería,Cuidado Personal,Afeitado
+Coto,Perfumería,Cuidado Personal,Depilación
+Coto,Perfumería,Cuidado Personal,Protección Femenina
+Coto,Perfumería,Cuidado Personal,Protección Adultos
+Coto,Perfumería,Cuidado Personal,Otros
+Coto,Perfumería,Cuidado Oral,Pastas Dentales
+Coto,Perfumería,Cuidado Oral,Cepillos Dentales
+Coto,Perfumería,Cuidado Oral,Enjuagues Bucales
+Coto,Perfumería,Cuidado Oral,Otros
+Coto,Perfumería,Farmacia,Algodón
+Coto,Perfumería,Farmacia,Alcohol
+Coto,Perfumería,Farmacia,Apósitos
+Coto,Perfumería,Farmacia,Preservativos
+Coto,Perfumería,Farmacia,Otros
+Coto,Electro,Electrodomésticos,Heladeras
+Coto,Electro,Electrodomésticos,Lavarropas
+Coto,Electro,Electrodomésticos,Cocinas
+Coto,Electro,Electrodomésticos,Microondas
+Coto,Electro,Electrodomésticos,Aires Acondicionados
+Coto,Electro,Electrodomésticos,Calefacción
+Coto,Electro,Electrodomésticos,Pequeños Electrodomésticos
+Coto,Electro,Electrodomésticos,Otros
+Coto,Electro,TV y Audio,Televisores
+Coto,Electro,TV y Audio,Audio
+Coto,Electro,TV y Audio,Accesorios
+Coto,Electro,Informática,Notebooks
+Coto,Electro,Informática,Tablets
+Coto,Electro,Informática,Impresoras
+Coto,Electro,Informática,Accesorios
+Coto,Electro,Telefonía,Celulares
+Coto,Electro,Telefonía,Accesorios
+Coto,Textil,Blanquería,Sábanas
+Coto,Textil,Blanquería,Toallas
+Coto,Textil,Blanquería,Acolchados
+Coto,Textil,Blanquería,Almohadas
+Coto,Textil,Blanquería,Colchas
+Coto,Textil,Blanquería,Otros
+Coto,Textil,Indumentaria,Hombre
+Coto,Textil,Indumentaria,Mujer
+Coto,Textil,Indumentaria,Niños
+Coto,Textil,Indumentaria,Bebés
+Coto,Textil,Indumentaria,Otros
+Coto,Hogar,Cocina,Bazar
+Coto,Hogar,Cocina,Utensilios
+Coto,Hogar,Cocina,Electrodomésticos
+Coto,Hogar,Cocina,Otros
+Coto,Hogar,Limpieza,Baldes
+Coto,Hogar,Limpieza,Escobas
+Coto,Hogar,Limpieza,Trapos
+Coto,Hogar,Limpieza,Otros
+Coto,Hogar,Decoración,
+Coto,Hogar,Muebles,
+Coto,Hogar,Organización,
+Coto,Hogar,Ferretería,
+Coto,Aire Libre,Camping y Playa,
+Coto,Aire Libre,Jardín,
+Coto,Aire Libre,Parrillas y Accesorios,
+Coto,Aire Libre,Bicicletas,
+Coto,Aire Libre,Deportes,

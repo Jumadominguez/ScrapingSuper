@@ -1,0 +1,330 @@
+Column1,Column2,Column3,Column4
+Supermercado,Categoria,Subcategoria,Subseccion
+Jumbo,Ofertas,Ofertas de fin de semana,Hasta 2do al 70% en Almacén y Bebidas
+Jumbo,Ofertas,Ofertas de fin de semana,Hasta 2do al 80% en Perfumería y Limpieza
+Jumbo,Ofertas,Ofertas de fin de semana,Hasta 2do al 50% en Frescos y Lácteos
+Jumbo,Ofertas,Electrodomésticos,Hasta 30% + Hasta 12 CSI en Calefacción Seleccionada
+Jumbo,Ofertas,Electrodomésticos,"Hasta 20% + Hasta 12 CSI en Heladeras, Lavarropas, Microondas y más"
+Jumbo,Ofertas,Electrodomésticos,"Hasta 35% + Hasta 12 CSI Notebooks, Tablets, Audio y más"
+Jumbo,Ofertas,Electrodomésticos,Hasta 30% en Pequeños Electrodomésticos
+Jumbo,Ofertas,Electrodomésticos,15% + 12 CSI en TV y Celulares
+Jumbo,Viví Saludable,,
+Jumbo,Electro,Aire Acondicionado y Ventilación,Aire Acondicionado
+Jumbo,Electro,Aire Acondicionado y Ventilación,Ventilación
+Jumbo,Electro,Audio,"Calefacción, Calefones y Termotanques"
+Jumbo,Electro,Audio,Calefacción
+Jumbo,Electro,Audio,Calefones
+Jumbo,Electro,Audio,Termotanques
+Jumbo,Electro,Cocinas y Hornos,Anafes
+Jumbo,Electro,Cocinas y Hornos,Cocinas
+Jumbo,Electro,Cocinas y Hornos,Hornos
+Jumbo,Electro,Cocinas y Hornos,Microondas
+Jumbo,Electro,Cocinas y Hornos,Purificadores
+Jumbo,Electro,Consolas y Videojuegos,Consolas
+Jumbo,Electro,Consolas y Videojuegos,Videojuegos
+Jumbo,Electro,"Heladeras, Freezers y Cavas",Heladera No Frost
+Jumbo,Electro,"Heladeras, Freezers y Cavas",Heladera Cíclica
+Jumbo,Electro,"Heladeras, Freezers y Cavas",Freezers
+Jumbo,Electro,"Heladeras, Freezers y Cavas",Heladeras Cavas
+Jumbo,Electro,Informática,
+Jumbo,Electro,Lavado,Lavarropas
+Jumbo,Electro,Lavado,Secarropas
+Jumbo,Electro,Lavado,Lavavajillas
+Jumbo,Electro,Pequeños Electros,Procesadoras
+Jumbo,Electro,Pequeños Electros,Licuadoras
+Jumbo,Electro,Pequeños Electros,Aspiradoras
+Jumbo,Electro,Pequeños Electros,Batidoras
+Jumbo,Electro,Pequeños Electros,Cuidado Personal
+Jumbo,Electro,Pequeños Electros,Pequeños Electros de Cocina
+Jumbo,Electro,Pequeños Electros,Pequeños Electros de Hogar
+Jumbo,Electro,Pequeños Electros,Salud
+Jumbo,Electro,Pequeños Electros,Cafeteras y Molinillos
+Jumbo,Electro,Teléfonos,Celulares
+Jumbo,Electro,Teléfonos,Accesorios
+Jumbo,Electro,TV y Video,Televisores
+Jumbo,Electro,TV y Video,Accesorios
+Jumbo,Hogar y Textil,Automotor,
+Jumbo,Hogar y Textil,Baño,
+Jumbo,Hogar y Textil,Cocina,
+Jumbo,Hogar y Textil,Colchones y Almohadas,
+Jumbo,Hogar y Textil,Decoración,
+Jumbo,Hogar y Textil,Cotillón,
+Jumbo,Hogar y Textil,Ferretería,
+Jumbo,Hogar y Textil,Indumentaria,
+Jumbo,Hogar y Textil,Mesa,
+Jumbo,Hogar y Textil,Muebles,
+Jumbo,Hogar y Textil,Organización,
+Jumbo,Hogar y Textil,Ropa de Cama,
+Jumbo,Tiempo Libre,Aire Libre,
+Jumbo,Tiempo Libre,Automotor,Accesorios para el Auto
+Jumbo,Tiempo Libre,Automotor,Cubiertas
+Jumbo,Tiempo Libre,Automotor,Limpieza
+Jumbo,Tiempo Libre,Automotor,Lubricantes y Refrigerantes
+Jumbo,Tiempo Libre,Automotor,Repuestos
+Jumbo,Tiempo Libre,Suplementos,
+Jumbo,Tiempo Libre,Paraguas,
+Jumbo,Tiempo Libre,Juguetería,Ensamblajes y Rompecabezas
+Jumbo,Tiempo Libre,Juguetería,Juegos de Mesa
+Jumbo,Tiempo Libre,Juguetería,Juguetes de Playa y Agua
+Jumbo,Tiempo Libre,Juguetería,Juguetes para Bebés
+Jumbo,Tiempo Libre,Juguetería,Juguetes
+Jumbo,Tiempo Libre,Juguetería,Muñecas y Muñecos
+Jumbo,Tiempo Libre,Juguetería,Peluches
+Jumbo,Tiempo Libre,Juguetería,Disfraces
+Jumbo,Tiempo Libre,Juguetería,Vehículos y Pistas
+Jumbo,Tiempo Libre,"Valijas, Bolsos, Mochilas y Luncheras",
+Jumbo,Tiempo Libre,Librería,Libros
+Jumbo,Bebés y Niños,Alimentación,
+Jumbo,Bebés y Niños,Cuidado del Bebé,
+Jumbo,Bebés y Niños,Pijamas,
+Jumbo,Bebés y Niños,"Cochecitos, Butacas y Sillitas",
+Jumbo,Almacén,Aceites y Vinagres,Aceites Comunes
+Jumbo,Almacén,Aceites y Vinagres,Aceites Especiales
+Jumbo,Almacén,Aceites y Vinagres,Acetos
+Jumbo,Almacén,Aceites y Vinagres,Jugos de Limón
+Jumbo,Almacén,Aceites y Vinagres,Vinagres
+Jumbo,Almacén,Aderezos,Mayonesas
+Jumbo,Almacén,Aderezos,Ketchup
+Jumbo,Almacén,Aderezos,Mostazas
+Jumbo,Almacén,Aderezos,Salsas Golf
+Jumbo,Almacén,Aderezos,Salsas Frías
+Jumbo,Almacén,Aderezos,Otros Condimentos
+Jumbo,Almacén,Arroz y Legumbres,Arroz
+Jumbo,Almacén,Arroz y Legumbres,Arroz Listos
+Jumbo,Almacén,Arroz y Legumbres,Legumbres
+Jumbo,Almacén,Arroz y Legumbres,Sal
+Jumbo,Almacén,Arroz y Legumbres,"Sal, Pimienta y Especias"
+Jumbo,Almacén,Arroz y Legumbres,Especias
+Jumbo,Almacén,Conservas,Conservas de Carne
+Jumbo,Almacén,Conservas,Conservas de Frutas
+Jumbo,Almacén,Conservas,Conservas de Pescado
+Jumbo,Almacén,Conservas,Conservas de Verduras y Legumbres
+Jumbo,Almacén,Desayuno y Merienda,Azúcar y Edulcorantes
+Jumbo,Almacén,Desayuno y Merienda,"Bizcochuelos, Budines y Magdalenas"
+Jumbo,Almacén,Desayuno y Merienda,Cacao y Saborizantes
+Jumbo,Almacén,Desayuno y Merienda,Cafés
+Jumbo,Almacén,Desayuno y Merienda,Cereales
+Jumbo,Almacén,Desayuno y Merienda,Galletas Dulces
+Jumbo,Almacén,Desayuno y Merienda,Galletitas Saladas
+Jumbo,Almacén,Desayuno y Merienda,Leches
+Jumbo,Almacén,Desayuno y Merienda,Mermeladas y Jaleas
+Jumbo,Almacén,Desayuno y Merienda,Piononos
+Jumbo,Almacén,Desayuno y Merienda,Tés
+Jumbo,Almacén,Desayuno y Merienda,Yerbas
+Jumbo,Almacén,Golosinas y Chocolates,Alfajores
+Jumbo,Almacén,Golosinas y Chocolates,Bocaditos y Postres
+Jumbo,Almacén,Golosinas y Chocolates,Bombones
+Jumbo,Almacén,Golosinas y Chocolates,Caramelos y Chicles
+Jumbo,Almacén,Golosinas y Chocolates,Chocolates
+Jumbo,Almacén,Golosinas y Chocolates,Turrones y Grageas
+Jumbo,Almacén,Harinas,Harinas
+Jumbo,Almacén,Harinas,Avenas y Sémolas
+Jumbo,Almacén,Panificados,Lacteados
+Jumbo,Almacén,Panificados,Pan Para Hamburguesas y Panchos
+Jumbo,Almacén,Panificados,Tostadas y Grisines
+Jumbo,Almacén,Panificados,Pan Rallado y Rebozador
+Jumbo,Almacén,Panificados,Integral y Salvado
+Jumbo,Almacén,"Sopas, Caldos y Puré",Puré
+Jumbo,Almacén,"Sopas, Caldos y Puré",Sopas
+Jumbo,Almacén,"Sopas, Caldos y Puré",Caldos
+Jumbo,Almacén,Para Preparar,"Bizcochuelos, Brownies y Tortas"
+Jumbo,Almacén,Para Preparar,Comidas
+Jumbo,Almacén,Para Preparar,Flanes
+Jumbo,Almacén,Para Preparar,Gelatinas
+Jumbo,Almacén,Para Preparar,Helados
+Jumbo,Almacén,Para Preparar,Mousse
+Jumbo,Almacén,Para Preparar,Postres
+Jumbo,Almacén,Para Preparar,Snacks
+Jumbo,Almacén,Pastas Secas y Salsas,Pastas Secas Guiseras
+Jumbo,Almacén,Pastas Secas y Salsas,Pastas Secas Largas
+Jumbo,Almacén,Pastas Secas y Salsas,Pastas Listas
+Jumbo,Almacén,Pastas Secas y Salsas,Salsas
+Jumbo,Almacén,Snacks,Frutas Secas y Disecadas
+Jumbo,Almacén,Snacks,Maní
+Jumbo,Almacén,Snacks,Nachos
+Jumbo,Almacén,Snacks,Palitos de Maíz
+Jumbo,Almacén,Snacks,Palitos Salados
+Jumbo,Almacén,Snacks,Papas Fritas
+Jumbo,Almacén,Snacks,Pochoclos
+Jumbo,Almacén,Snacks,Snacks
+Jumbo,Bebidas,A Base de Hierbas,Agua Sin Gas
+Jumbo,Bebidas,A Base de Hierbas,Agua Con Gas
+Jumbo,Bebidas,A Base de Hierbas,Agua Saborizadas
+Jumbo,Bebidas,Aperitivos,
+Jumbo,Bebidas,Bebidas Blancas,
+Jumbo,Bebidas,Cervezas,
+Jumbo,Bebidas,Champagnes,
+Jumbo,Bebidas,Energizantes,
+Jumbo,Bebidas,Gaseosas,Cola
+Jumbo,Bebidas,Gaseosas,Lima Limón
+Jumbo,Bebidas,Gaseosas,Naranja
+Jumbo,Bebidas,Gaseosas,Pomelo
+Jumbo,Bebidas,Gaseosas,Tónica
+Jumbo,Bebidas,Gaseosas,Guaraná
+Jumbo,Bebidas,Generosos,
+Jumbo,Bebidas,Hielo,
+Jumbo,Bebidas,Isotónicas,
+Jumbo,Bebidas,Jugos,En Polvo
+Jumbo,Bebidas,Jugos,Listos
+Jumbo,Bebidas,Jugos,Granadina
+Jumbo,Bebidas,Jugos,Frescos
+Jumbo,Bebidas,Jugos,Licores
+Jumbo,Bebidas,Sidras,
+Jumbo,Bebidas,Vinos,Vinos Blancos
+Jumbo,Bebidas,Vinos,Vinos Tintos
+Jumbo,Bebidas,Vinos,Vinos Rosados
+Jumbo,Bebidas,Vinos,Vinos Frizantes
+Jumbo,Bebidas,Whiskys,
+Jumbo,Frutas y Verduras,Frutas,Frutas Empaquetadas
+Jumbo,Frutas y Verduras,Frutas,Frutas Secas y Desecadas
+Jumbo,Frutas y Verduras,Frutas,Frutas Sueltas
+Jumbo,Frutas y Verduras,Frutas,Frutas Congeladas
+Jumbo,Frutas y Verduras,Hierbas Aromáticas y Plantines,
+Jumbo,Frutas y Verduras,Huevos,
+Jumbo,Frutas y Verduras,"Legumbres, Granos y Semillas",
+Jumbo,Frutas y Verduras,Orgánicos,
+Jumbo,Frutas y Verduras,Verduras,Hortalizas Livianas
+Jumbo,Frutas y Verduras,Verduras,Hortalizas Pesadas
+Jumbo,Frutas y Verduras,Verduras,Verduras Empaquetadas
+Jumbo,Frutas y Verduras,Verduras,Verduras Frescas de Hoja
+Jumbo,Frutas y Verduras,Verduras,Verduras Procesadas y Ensaladas Listas
+Jumbo,Frutas y Verduras,Verduras,Verduras Secas y Desecadas
+Jumbo,Carnes,Carne Vacuna,Novillito
+Jumbo,Carnes,Carne Vacuna,Novillito Especial
+Jumbo,Carnes,Carne Vacuna,La Hacienda Premium
+Jumbo,Carnes,Carne de Cerdo,
+Jumbo,Carnes,"Cordero, Lechón, Chivito y Conejo",
+Jumbo,Carnes,Carbón y Leña,
+Jumbo,Carnes,Listos Para Cocinar,
+Jumbo,Carnes,Embutidos,Chorizos
+Jumbo,Carnes,Embutidos,Morcilla
+Jumbo,Carnes,Embutidos,Salchichas
+Jumbo,Carnes,Pollos,Menudencias
+Jumbo,Pescados y Mariscos,Pescados,
+Jumbo,Pescados y Mariscos,Mariscos,
+Jumbo,Quesos y Fiambres,Quesos,Quesos Untables
+Jumbo,Quesos y Fiambres,Quesos,Quesos Muzzarella
+Jumbo,Quesos y Fiambres,Quesos,Quesos Port Salut y Cremosos
+Jumbo,Quesos y Fiambres,Quesos,Quesos Semiblandos
+Jumbo,Quesos y Fiambres,Quesos,Quesos Duros
+Jumbo,Quesos y Fiambres,Quesos,Quesos Especiales e Importados
+Jumbo,Quesos y Fiambres,Quesos,Quesos Rallados
+Jumbo,Quesos y Fiambres,Quesos,Ricota
+Jumbo,Quesos y Fiambres,Fiambres,Jamón Cocido y Crudo
+Jumbo,Quesos y Fiambres,Fiambres,Fiambres
+Jumbo,Quesos y Fiambres,Dulces,
+Jumbo,Quesos y Fiambres,"Encurtidos, Aceitunas y Pickles",
+Jumbo,Quesos y Fiambres,Salchichas,
+Jumbo,Lácteos,Cremas,
+Jumbo,Lácteos,Dulce de Leche,
+Jumbo,Lácteos,Leches,Leches Larga Vida
+Jumbo,Lácteos,Leches,Leches Refrigeradas
+Jumbo,Lácteos,Leches,Leches Saborizadas
+Jumbo,Lácteos,Leches,Bebidas Vegetales
+Jumbo,Lácteos,Mantecas y Margarinas,Manteca
+Jumbo,Lácteos,Mantecas y Margarinas,Margarinas
+Jumbo,Lácteos,Pastas y Tapas,Fideos y Ñoquis
+Jumbo,Lácteos,Pastas y Tapas,Grasas
+Jumbo,Lácteos,Pastas y Tapas,Masa y Levaduras
+Jumbo,Lácteos,Pastas y Tapas,Pastas Rellenas
+Jumbo,Lácteos,Pastas y Tapas,Tapas
+Jumbo,Lácteos,Postres,
+Jumbo,Lácteos,Yogures,Yogures Descremados
+Jumbo,Lácteos,Yogures,Yogures Enteros
+Jumbo,Congelados,Comidas Congeladas,Pizzas
+Jumbo,Congelados,Comidas Congeladas,Empanadas y Tartas
+Jumbo,Congelados,Comidas Congeladas,Comidas Congeladas
+Jumbo,Congelados,Frutas,
+Jumbo,Congelados,Hamburguesas y Milanesas,
+Jumbo,Congelados,Helados y Postres,
+Jumbo,Congelados,Papas,
+Jumbo,Congelados,Pescados y Mariscos,
+Jumbo,Congelados,Pollo y Carnes,
+Jumbo,Congelados,Verduras,
+Jumbo,Panadería y Pastelería,,
+Jumbo,Rotisería,Platos Principales,
+Jumbo,Rotisería,Entradas,
+Jumbo,Rotisería,Postres,
+Jumbo,Perfumería,Cuidado Capilar,Coloración
+Jumbo,Perfumería,Cuidado Capilar,Acondicionador
+Jumbo,Perfumería,Cuidado Capilar,Fijación
+Jumbo,Perfumería,Cuidado Capilar,Pediculosis
+Jumbo,Perfumería,Cuidado Capilar,Reparación y Tratamientos
+Jumbo,Perfumería,Cuidado Capilar,Shampoo
+Jumbo,Perfumería,Cuidado Capilar,Cepillos para Pelo
+Jumbo,Perfumería,Cuidado de la Piel,Cremas Corporales
+Jumbo,Perfumería,Cuidado de la Piel,Cremas Desmaquillantes
+Jumbo,Perfumería,Cuidado de la Piel,Cremas Faciales
+Jumbo,Perfumería,Cuidado de la Piel,Solares y Post-Solares
+Jumbo,Perfumería,Cuidado Personal,Cepillos y Esponjas
+Jumbo,Perfumería,Cuidado Personal,Depilación
+Jumbo,Perfumería,Cuidado Personal,Desodorantes de Hombres
+Jumbo,Perfumería,Cuidado Personal,Desodorantes de Mujer
+Jumbo,Perfumería,Cuidado Personal,Desodorantes y Polvos Pédicos
+Jumbo,Perfumería,Cuidado Personal,Geles de Ducha
+Jumbo,Perfumería,Cuidado Personal,Jabones
+Jumbo,Perfumería,Cuidado Personal,Protección Adultos
+Jumbo,Perfumería,Cuidado Personal,Protección Femenina
+Jumbo,Perfumería,Cuidado Personal,Productos Para Afeitarse
+Jumbo,Perfumería,Cuidado Personal,Quitaesmaltes
+Jumbo,Perfumería,Cuidado Personal,Higiene Preventiva
+Jumbo,Perfumería,Cuidado Oral,Pastas Dentales
+Jumbo,Perfumería,Cuidado Oral,Cepillos Dentales
+Jumbo,Perfumería,Cuidado Oral,Enjuagues Bucales
+Jumbo,Perfumería,Cuidado Oral,Accesorios Dentales
+Jumbo,Perfumería,Farmacia,Algodón
+Jumbo,Perfumería,Farmacia,Alcohol
+Jumbo,Perfumería,Farmacia,Apósitos
+Jumbo,Perfumería,Farmacia,Preservativos
+Jumbo,Perfumería,Farmacia,Otros
+Jumbo,Limpieza,Accesorios de Limpieza,Baldes y Mopas
+Jumbo,Limpieza,Accesorios de Limpieza,Bolsas
+Jumbo,Limpieza,Accesorios de Limpieza,Broches y Ganchos
+Jumbo,Limpieza,Accesorios de Limpieza,Escobas y Escobillones
+Jumbo,Limpieza,Accesorios de Limpieza,Escobillas
+Jumbo,Limpieza,Accesorios de Limpieza,Esponjas y Guantes
+Jumbo,Limpieza,Accesorios de Limpieza,Palas y Cabos
+Jumbo,Limpieza,Accesorios de Limpieza,Palos Multiusos
+Jumbo,Limpieza,Accesorios de Limpieza,Secadores y Cepillos
+Jumbo,Limpieza,Accesorios de Limpieza,Trapos de Piso
+Jumbo,Limpieza,Calzado,Brillos y Revividiores
+Jumbo,Limpieza,Calzado,Limpiadores
+Jumbo,Limpieza,Calzado,Plantillas Para Calzado
+Jumbo,Limpieza,Desodorantes de Ambiente,Absorbe Humedad
+Jumbo,Limpieza,Desodorantes de Ambiente,Aromatizantes
+Jumbo,Limpieza,Desodorantes de Ambiente,Desodorantes y Desinfectantes
+Jumbo,Limpieza,Insecticidas,Aerosoles
+Jumbo,Limpieza,Insecticidas,Aparatos
+Jumbo,Limpieza,Insecticidas,"Cebos, Bolillas y Pastillas"
+Jumbo,Limpieza,Insecticidas,Escobas y Escobillones
+Jumbo,Limpieza,Insecticidas,Repelentes
+Jumbo,Limpieza,Insecticidas,Tabletas y Difusores
+Jumbo,Limpieza,Lavandina,
+Jumbo,Limpieza,Limpieza de Baño,Desinfectantes
+Jumbo,Limpieza,Limpieza de Baño,Destapa Cañerías
+Jumbo,Limpieza,Limpieza de Baño,Pastillas y Bloques
+Jumbo,Limpieza,Cuidado Para La Ropa,Aprestos y Blanqueadores
+Jumbo,Limpieza,Cuidado Para La Ropa,Cepillo Para Ropa
+Jumbo,Limpieza,Cuidado Para La Ropa,Jabón en Pan
+Jumbo,Limpieza,Cuidado Para La Ropa,Detergente Para Ropa
+Jumbo,Limpieza,Cuidado Para La Ropa,Quita manchas
+Jumbo,Limpieza,Cuidado Para La Ropa,Suavizantes
+Jumbo,Limpieza,Cuidado Para La Ropa,Perfumes
+Jumbo,Limpieza,Limpieza de Cocina,Detergentes
+Jumbo,Limpieza,Limpieza de Cocina,Escarbadientes
+Jumbo,Limpieza,Limpieza de Cocina,Fósforos
+Jumbo,Limpieza,Limpieza de Cocina,Limpiadores
+Jumbo,Limpieza,Limpieza de Cocina,Limpiavidrios
+Jumbo,Limpieza,Limpieza de Cocina,Productos Para Lavavajillas
+Jumbo,Limpieza,Limpieza de Pisos y Muebles,Ceras y Autobrillo
+Jumbo,Limpieza,Limpieza de Pisos y Muebles,Limpiadores de Pisos
+Jumbo,Limpieza,Limpieza de Pisos y Muebles,Lustramuebles
+Jumbo,Limpieza,Papeles,Pañuelos
+Jumbo,Limpieza,Papeles,Papel Higiénico
+Jumbo,Limpieza,Papeles,Rollos de Cocina
+Jumbo,Limpieza,Papeles,Servilletas
+Jumbo,Mascotas,Accesorios para Mascotas,
+Jumbo,Mascotas,Gatos,Secos
+Jumbo,Mascotas,Gatos,Húmedos
+Jumbo,Mascotas,Perros,Secos
+Jumbo,Mascotas,Perros,Húmedos

@@ -1,0 +1,229 @@
+import csv
+
+data = [
+    ["Supermercado", "Categoria", "Subcategoria", "Subseccion"],
+
+    # Ofertas
+    ["Vea", "Ofertas", "Ofertas de la semana", ""],
+    ["Vea", "Ofertas", "3x2", ""],
+    ["Vea", "Ofertas", "2x1", ""],
+    ["Vea", "Ofertas", "30% OFF", ""],
+
+    # Electro
+    ["Vea", "Electro", "Electrodomésticos", "Heladeras"],
+    ["Vea", "Electro", "Electrodomésticos", "Lavarropas"],
+    ["Vea", "Electro", "Electrodomésticos", "Cocinas"],
+    ["Vea", "Electro", "Electrodomésticos", "Microondas"],
+    ["Vea", "Electro", "Electrodomésticos", "Aires Acondicionados"],
+    ["Vea", "Electro", "Electrodomésticos", "Calefacción"],
+    ["Vea", "Electro", "Electrodomésticos", "Pequeños Electrodomésticos"],
+    ["Vea", "Electro", "Electrodomésticos", "Otros"],
+    ["Vea", "Electro", "TV y Audio", "Televisores"],
+    ["Vea", "Electro", "TV y Audio", "Audio"],
+    ["Vea", "Electro", "TV y Audio", "Accesorios"],
+    ["Vea", "Electro", "Informática", "Notebooks"],
+    ["Vea", "Electro", "Informática", "Tablets"],
+    ["Vea", "Electro", "Informática", "Impresoras"],
+    ["Vea", "Electro", "Informática", "Accesorios"],
+    ["Vea", "Electro", "Telefonía", "Celulares"],
+    ["Vea", "Electro", "Telefonía", "Accesorios"],
+
+    # Tiempo Libre
+    ["Vea", "Tiempo Libre", "Camping y Playa", ""],
+    ["Vea", "Tiempo Libre", "Jardín", ""],
+    ["Vea", "Tiempo Libre", "Parrillas y Accesorios", ""],
+    ["Vea", "Tiempo Libre", "Bicicletas", ""],
+    ["Vea", "Tiempo Libre", "Deportes", ""],
+
+    # Almacén
+    ["Vea", "Almacén", "Aceites y Vinagres", "Aceite de Girasol"],
+    ["Vea", "Almacén", "Aceites y Vinagres", "Aceite de Oliva"],
+    ["Vea", "Almacén", "Aceites y Vinagres", "Aceite de Maíz"],
+    ["Vea", "Almacén", "Aceites y Vinagres", "Aceite de Soja"],
+    ["Vea", "Almacén", "Aceites y Vinagres", "Vinagre"],
+    ["Vea", "Almacén", "Aceites y Vinagres", "Aceto Balsámico"],
+    ["Vea", "Almacén", "Aderezos", "Mayonesa"],
+    ["Vea", "Almacén", "Aderezos", "Ketchup"],
+    ["Vea", "Almacén", "Aderezos", "Mostaza"],
+    ["Vea", "Almacén", "Aderezos", "Salsas"],
+    ["Vea", "Almacén", "Aderezos", "Otros Aderezos"],
+    ["Vea", "Almacén", "Arroz y Legumbres", "Arroz"],
+    ["Vea", "Almacén", "Arroz y Legumbres", "Legumbres"],
+    ["Vea", "Almacén", "Arroz y Legumbres", "Arroz Listo"],
+    ["Vea", "Almacén", "Conservas", "Conservas de Pescado"],
+    ["Vea", "Almacén", "Conservas", "Conservas de Verduras"],
+    ["Vea", "Almacén", "Conservas", "Conservas de Frutas"],
+    ["Vea", "Almacén", "Conservas", "Conservas de Carne"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Café"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Té"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Yerba"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Cacao"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Mermeladas"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Dulce de Leche"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Azúcar"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Edulcorantes"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Galletitas Dulces"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Galletitas Saladas"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Cereales"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Barritas"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Bizcochuelos y Budines"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Tostadas y Grisines"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Pan Dulce"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Pan de Molde"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Pan Rallado"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Rebozadores"],
+    ["Vea", "Almacén", "Desayuno y Merienda", "Otros Panificados"],
+    ["Vea", "Almacén", "Golosinas y Chocolates", "Chocolates"],
+    ["Vea", "Almacén", "Golosinas y Chocolates", "Caramelos"],
+    ["Vea", "Almacén", "Golosinas y Chocolates", "Chicles"],
+    ["Vea", "Almacén", "Golosinas y Chocolates", "Turrones"],
+    ["Vea", "Almacén", "Golosinas y Chocolates", "Alfajores"],
+    ["Vea", "Almacén", "Golosinas y Chocolates", "Bocaditos"],
+    ["Vea", "Almacén", "Golosinas y Chocolates", "Bombones"],
+    ["Vea", "Almacén", "Golosinas y Chocolates", "Gomitas"],
+    ["Vea", "Almacén", "Golosinas y Chocolates", "Otros"],
+    ["Vea", "Almacén", "Harinas y Premezclas", "Harinas"],
+    ["Vea", "Almacén", "Harinas y Premezclas", "Premezclas"],
+    ["Vea", "Almacén", "Harinas y Premezclas", "Polenta"],
+    ["Vea", "Almacén", "Harinas y Premezclas", "Avena"],
+    ["Vea", "Almacén", "Harinas y Premezclas", "Sémola"],
+    ["Vea", "Almacén", "Pastas Secas y Salsas", "Pastas Secas"],
+    ["Vea", "Almacén", "Pastas Secas y Salsas", "Salsas"],
+    ["Vea", "Almacén", "Pastas Secas y Salsas", "Pastas Listas"],
+    ["Vea", "Almacén", "Sopas, Caldos y Puré", "Sopas"],
+    ["Vea", "Almacén", "Sopas, Caldos y Puré", "Caldos"],
+    ["Vea", "Almacén", "Sopas, Caldos y Puré", "Puré"],
+    ["Vea", "Almacén", "Snacks", "Papas Fritas"],
+    ["Vea", "Almacén", "Snacks", "Palitos"],
+    ["Vea", "Almacén", "Snacks", "Maní"],
+    ["Vea", "Almacén", "Snacks", "Frutos Secos"],
+    ["Vea", "Almacén", "Snacks", "Snacks de Maíz"],
+    ["Vea", "Almacén", "Snacks", "Otros Snacks"],
+
+    # Bebidas
+    ["Vea", "Bebidas", "Aguas", "Aguas Sin Gas"],
+    ["Vea", "Bebidas", "Aguas", "Aguas Con Gas"],
+    ["Vea", "Bebidas", "Aguas", "Aguas Saborizadas"],
+    ["Vea", "Bebidas", "Gaseosas", "Cola"],
+    ["Vea", "Bebidas", "Gaseosas", "Naranja"],
+    ["Vea", "Bebidas", "Gaseosas", "Pomelo"],
+    ["Vea", "Bebidas", "Gaseosas", "Lima Limón"],
+    ["Vea", "Bebidas", "Gaseosas", "Tónica"],
+    ["Vea", "Bebidas", "Gaseosas", "Guaraná"],
+    ["Vea", "Bebidas", "Jugos", "Jugos en Polvo"],
+    ["Vea", "Bebidas", "Jugos", "Jugos Listos"],
+    ["Vea", "Bebidas", "Jugos", "Granadina"],
+    ["Vea", "Bebidas", "Jugos", "Frescos"],
+    ["Vea", "Bebidas", "Energizantes", ""],
+    ["Vea", "Bebidas", "Isotónicas", ""],
+    ["Vea", "Bebidas", "Cerveza", ""],
+    ["Vea", "Bebidas", "Vinos", "Vinos Tintos"],
+    ["Vea", "Bebidas", "Vinos", "Vinos Blancos"],
+    ["Vea", "Bebidas", "Vinos", "Vinos Rosados"],
+    ["Vea", "Bebidas", "Vinos", "Vinos Espumantes"],
+    ["Vea", "Bebidas", "Vinos", "Vinos Frizantes"],
+    ["Vea", "Bebidas", "Sidras", ""],
+    ["Vea", "Bebidas", "Champagnes", ""],
+    ["Vea", "Bebidas", "Aperitivos", ""],
+    ["Vea", "Bebidas", "Licores", ""],
+    ["Vea", "Bebidas", "Bebidas Blancas", ""],
+    ["Vea", "Bebidas", "Whiskys", ""],
+    ["Vea", "Bebidas", "Hielo", ""],
+
+    # Carnes
+    ["Vea", "Carnes", "Vacuna", ""],
+    ["Vea", "Carnes", "Cerdo", ""],
+    ["Vea", "Carnes", "Pollo", ""],
+    ["Vea", "Carnes", "Cordero", ""],
+    ["Vea", "Carnes", "Embutidos", ""],
+    ["Vea", "Carnes", "Achuras", ""],
+    ["Vea", "Carnes", "Otros", ""],
+
+    # Frutas y Verduras
+    ["Vea", "Frutas y Verduras", "Frutas", ""],
+    ["Vea", "Frutas y Verduras", "Verduras", ""],
+    ["Vea", "Frutas y Verduras", "Hierbas", ""],
+    ["Vea", "Frutas y Verduras", "Otros", ""],
+
+    # Lácteos
+    ["Vea", "Lácteos", "Leche", ""],
+    ["Vea", "Lácteos", "Yogur", ""],
+    ["Vea", "Lácteos", "Postres", ""],
+    ["Vea", "Lácteos", "Dulce de Leche", ""],
+    ["Vea", "Lácteos", "Manteca y Margarina", ""],
+    ["Vea", "Lácteos", "Cremas", ""],
+    ["Vea", "Lácteos", "Quesos", ""],
+
+    # Perfumería
+    ["Vea", "Perfumería", "Cuidado Capilar", ""],
+    ["Vea", "Perfumería", "Cuidado de la Piel", ""],
+    ["Vea", "Perfumería", "Cuidado Personal", ""],
+    ["Vea", "Perfumería", "Cuidado Oral", ""],
+    ["Vea", "Perfumería", "Farmacia", ""],
+
+    # Bebés y Niños
+    ["Vea", "Bebés y Niños", "Pañales", ""],
+    ["Vea", "Bebés y Niños", "Toallitas Húmedas", ""],
+    ["Vea", "Bebés y Niños", "Leches Infantiles", ""],
+    ["Vea", "Bebés y Niños", "Papillas", ""],
+    ["Vea", "Bebés y Niños", "Accesorios", ""],
+
+    # Limpieza
+    ["Vea", "Limpieza", "Limpieza de Ropa", ""],
+    ["Vea", "Limpieza", "Limpieza de Cocina", ""],
+    ["Vea", "Limpieza", "Limpieza de Baño", ""],
+    ["Vea", "Limpieza", "Limpieza de Pisos y Muebles", ""],
+    ["Vea", "Limpieza", "Insecticidas", ""],
+    ["Vea", "Limpieza", "Papeles", ""],
+    ["Vea", "Limpieza", "Accesorios de Limpieza", ""],
+
+    # Quesos y Fiambres
+    ["Vea", "Quesos y Fiambres", "Quesos", ""],
+    ["Vea", "Quesos y Fiambres", "Fiambres", ""],
+
+    # Congelados
+    ["Vea", "Congelados", "Comidas Congeladas", ""],
+    ["Vea", "Congelados", "Verduras Congeladas", ""],
+    ["Vea", "Congelados", "Frutas Congeladas", ""],
+    ["Vea", "Congelados", "Papas Congeladas", ""],
+    ["Vea", "Congelados", "Pescados y Mariscos", ""],
+    ["Vea", "Congelados", "Pollo y Carnes", ""],
+    ["Vea", "Congelados", "Helados y Postres", ""],
+
+    # Panadería y Pastelería
+    ["Vea", "Panadería y Pastelería", "Pan", ""],
+    ["Vea", "Panadería y Pastelería", "Facturas", ""],
+    ["Vea", "Panadería y Pastelería", "Tortas", ""],
+    ["Vea", "Panadería y Pastelería", "Budines", ""],
+    ["Vea", "Panadería y Pastelería", "Otros", ""],
+
+    # Rotisería
+    ["Vea", "Rotisería", "Comidas Preparadas", ""],
+    ["Vea", "Rotisería", "Empanadas", ""],
+    ["Vea", "Rotisería", "Pizzas", ""],
+    ["Vea", "Rotisería", "Tartas", ""],
+    ["Vea", "Rotisería", "Otros", ""],
+
+    # Mascotas
+    ["Vea", "Mascotas", "Alimentos para Perros", ""],
+    ["Vea", "Mascotas", "Alimentos para Gatos", ""],
+    ["Vea", "Mascotas", "Accesorios", ""],
+
+    # Hogar y Textil
+    ["Vea", "Hogar y Textil", "Blanquería", ""],
+    ["Vea", "Hogar y Textil", "Indumentaria", ""],
+    ["Vea", "Hogar y Textil", "Cocina", ""],
+    ["Vea", "Hogar y Textil", "Limpieza", ""],
+    ["Vea", "Hogar y Textil", "Decoración", ""],
+    ["Vea", "Hogar y Textil", "Muebles", ""],
+    ["Vea", "Hogar y Textil", "Organización", ""],
+    ["Vea", "Hogar y Textil", "Ferretería", ""],
+]
+
+with open("vea_menu_completo_todas_categorias.csv", "w", newline='', encoding="utf-8") as f:
+    writer = csv.writer(f)
+    writer.writerows(data)
+
+print("Archivo vea_menu_completo_todas_categorias.csv generado correctamente.")
+print(f"Total de filas: {len(data)}")
+print(f"Total de categorías (sin header): {len(data)-1}")
