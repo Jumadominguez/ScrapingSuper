@@ -1,0 +1,15 @@
+Quiero convertir este elemento: <input type="text" class="form-control" id="producto" placeholder="Producto (ej: Arroz largo fino)"> en un menu desplegable que tenga ordenadas las categorias que se encuentran en el CSV "categorias" que esta en la carpeta "database", siguiendo la logica de las columnas. Ignora por el momento la columna "Supermercados" y jerarquiza el arbol del menu desplegable de la siguiente manera:
+
+"Categoria"
+        "SubCategoria"
+                "SubSeccion"
+
+  Pueden haber dos o mas resultados finales de "categorias>subcategorias>subseccion" iguales porque pertenecen a un "supermercado" distinto. En ese caso no las repitas.
+
+Te voy a hacer un ejemplo de 2 categorias con sus subcategorias y subsecciones a mano de como quiero que quede visualmente para que puedas replicar el formato con el resto de las categorias.
+
+Ofertas
+        Supermercado - ¡Gigante!
+                Exclusivo Tarjeta Mi Carrefour o Prepaga
+                Hasta 40% off en seleccionados
+                2do al 50% en seleccionados
