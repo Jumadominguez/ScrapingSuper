@@ -1,0 +1,59 @@
+﻿ID_Producto,Categoria,Tipo de Producto,Nombre,Marca,URL,Precio_regular,Precio_float,Fecha,Filtro
+P1,Carnes,Ahumadores,Astilla Ahumadora Manzano 500 Gr,HUMOS,,Precio regular x kg.: $5.798,5798.0,2025-08-02,Ahumadores
+P2,Carnes,Ahumadores,Chips Ahumadores Humos Olivo 140 Gr,HUMOS,,"Precio regular x kg.: $15.707,14",15707.14,2025-08-02,Ahumadores
+P3,Carnes,Ahumadores,Astillas Para Ahumar Nogal 1 U,HUMOS,,"Precio regular x kg.: $15.707,14",15707.14,2025-08-02,Ahumadores
+P4,Carnes,Ahumadores,Astillas De Leña Ahumadoras 500 Gr,HUMOS,,Precio regular x kg.: $5.798,5798.0,2025-08-02,Ahumadores
+P5,Carnes,Ahumadores,Chips Ahumadores Manzano,HUMOS,,"Precio regular x kg.: $15.707,14",15707.14,2025-08-02,Ahumadores
+P6,Carnes,Ahumadores,Chips Ahumadores Humos Espinillo 140 Gr,HUMOS,,"Precio regular x kg.: $15.707,14",15707.14,2025-08-02,Ahumadores
+P7,Carnes,Ahumadores,Astilla Ahumadora Olivo 500 Gr,HUMOS,,Precio regular x kg.: $5.798,5798.0,2025-08-02,Ahumadores
+P8,Carnes,Carbón,Carbón Premium Las Brasas X 4kgs,LAS BRASAS,,"Precio regular x kg.: $1.499,75",1499.75,2025-08-02,Carbón
+P9,Carnes,Carbón,Carbon X 4 Kg Los Leños Black,LOS LEÑOS,,"Precio regular x un: $1874,75",1874.75,2025-08-02,Carbón
+P10,Carnes,Carbón,Morcilla Criolla Envasado Al Vacio 4 U - 400 Grs - Magret,MAGRET,,"Precio regular x kg.: $14.012,5",14012.5,2025-08-02,Carbón
+P11,Carnes,Carbón,Milanesa De Nalga Rebozada,UNION GANADERA,,Precio regular x kg.: $16.049,16049.0,2025-08-02,Carbón
+P12,Carnes,Carne de Cerdo,Solomillo De Cerdo Congelado,GRANJA PROPIA,,Precio regular x kg.: $7.399,7399.0,2025-08-02,Carne de Cerdo
+P13,Carnes,Carne de Cerdo,Carre De Cerdo Con Hueso Fresco,GRANJA PROPIA,,Precio regular x kg.: $6.199,6199.0,2025-08-02,Carne de Cerdo
+P14,Carnes,Carne de Cerdo,Pechito De Cerdo Fresco,SIN MARCA,,Precio regular x kg.: $6.699,6699.0,2025-08-02,Carne de Cerdo
+P15,Carnes,Carne de Cerdo,Bondiola De Cerdo Congelada,GRANJA PROPIA,,Precio regular x kg.: $10.295,10295.0,2025-08-02,Carne de Cerdo
+P16,Carnes,Carne de Cerdo,Bondiola de cerdo fresca,GRANJA PROPIA,,Precio regular x kg.: $8.799,8799.0,2025-08-02,Carne de Cerdo
+P17,Carnes,Carne de Cerdo,Carre De Cerdo Deshuesado Congelado,GRANJA PROPIA,,Precio regular x kg.: $7.399,7399.0,2025-08-02,Carne de Cerdo
+P18,Carnes,Carne de Cerdo,Matambrito De Cerdo - Magret,GRANJA PROPIA,,Precio regular x kg.: $25.099,25099.0,2025-08-02,Carne de Cerdo
+P19,Carnes,Carne de Cerdo,Solomillo De Cerdo - Magret,GRANJA PROPIA,,Precio regular x kg.: $17.715,17715.0,2025-08-02,Carne de Cerdo
+P20,Carnes,Carne de Cerdo,Bife De Paleta De Cerdo Fresco,GRANJA PROPIA,,Precio regular x kg.: $6.599,6599.0,2025-08-02,Carne de Cerdo
+P21,Carnes,Carne de Cerdo,Carre De Cerdo Deshuesado - Magret,GRANJA PROPIA,,Precio regular x kg.: $12.569,12569.0,2025-08-02,Carne de Cerdo
+P22,Carnes,Carne de Cerdo,Ribbs De Cerdo - Magret,GRANJA PROPIA,,Precio regular x kg.: $18.869,18869.0,2025-08-02,Carne de Cerdo
+P23,Carnes,Carne de Cerdo,Churrasquito De Cerdo Fresco,GRANJA PROPIA,,Precio regular x kg.: $11.865,11865.0,2025-08-02,Carne de Cerdo
+P24,Carnes,Carne de Cerdo,Carre De Cerdo Deshuesado Fresco X Kg Fresh,GRANJA PROPIA,,Precio regular x kg.: $10.695,10695.0,2025-08-02,Carne de Cerdo
+P25,Carnes,Carne de Cerdo,Bife De Jamon De Cerdo Fresco,GRANJA PROPIA,,Precio regular x kg.: $7.699,7699.0,2025-08-02,Carne de Cerdo
+P26,Carnes,Carne de Cerdo,Panceta Salada Fresca,GRANJA PROPIA,,Precio regular x kg.: $12.539,12539.0,2025-08-02,Carne de Cerdo
+P27,Carnes,Carne de Cerdo,Tapa De Cuadril Premium La Hacienda,LA HACIENDA,,Precio regular x kg.: $23.499,23499.0,2025-08-02,Carne de Cerdo
+P28,Carnes,Carne de Cerdo,Pulpeta De Carne Vacuna - Union Ganadera,UNION GANADERA,,"Precio regular x kg.: $17.848,84",17848.84,2025-08-02,Carne de Cerdo
+P29,Carnes,Carnes de Cerdo,Bondiola De Cerdo - Magret,GRANJA PROPIA,,Precio regular x kg.: $16.255,16255.0,2025-08-02,Carnes de Cerdo
+P30,Carnes,Carnes de Cerdo,Vacio De Cerdo,MAGRET,,Precio regular x kg.: $12.869,12869.0,2025-08-02,Carnes de Cerdo
+P31,Carnes,Carnes de Cerdo,Pechito De Cerdo En Tiras,MAGRET,,Precio regular x kg.: $11.865,11865.0,2025-08-02,Carnes de Cerdo
+P32,Carnes,Carnes de Cerdo,Churrasquito De Cerdo - Magret,GRANJA PROPIA,,Precio regular x kg.: $12.239,12239.0,2025-08-02,Carnes de Cerdo
+P33,Carnes,Carnes de Cerdo,Chorizo Fresco Bombón Envasado Al Vacio 8 U - 400 Grs - Magret,MAGRET,,"Precio regular x kg.: $19.837,5",19837.5,2025-08-02,Carnes de Cerdo
+P34,Carnes,Carnes de Cerdo,PALETA CHURRASCO,LA HACIENDA,,Precio regular x kg.: $9.999,9999.0,2025-08-02,Carnes de Cerdo
+P35,Carnes,Carnes de Cordero,Medio Cordero Patagonico Congelado - 6kg Aprox,FRIGORIFICO HERMOSO,,Precio regular x kg.: $19.105,19105.0,2025-08-02,Carnes de Cordero
+P36,Carnes,Carnes de Cordero,Cordero Trozado Patagonico Congelado - 6kg Aprox,FRIGORIFICO HERMOSO,,Precio regular x kg.: $19.835,19835.0,2025-08-02,Carnes de Cordero
+P37,Carnes,Carnes de Cordero,Bife Angosto,LA HACIENDA,,Precio regular x kg.: $15.685,15685.0,2025-08-02,Carnes de Cordero
+P38,Carnes,Carnes de Cordero,Carre De Cerdo Deshuesado Congelado,GRANJA PROPIA,,Precio regular x kg.: $7.399,7399.0,2025-08-02,Carnes de Cordero
+P39,Rotisería,Bastones de Mozzarella,Bastones De Muzzarella Por Kg,FRESH,,Precio regular x kg.: $22.400,22400.0,2025-08-02,Bastones de Mozzarella
+P40,Rotisería,Bastones de Mozzarella,Wrap De Pollo,FRESH,,Precio regular x un: $6.750,6750.0,2025-08-02,Bastones de Mozzarella
+P41,Rotisería,Bastones de Mozzarella,Tortilla De Papas X Kg,SIN MARCA,,Precio regular x kg.: $15.000,15000.0,2025-08-02,Bastones de Mozzarella
+P42,Rotisería,Bocaditos,Buñuelo Calabaza,ELABORACION PROPIA,,Precio regular x kg.: $21.650,21650.0,2025-08-02,Bocaditos
+P43,Rotisería,Bocaditos,Bocaditos De Calabaza Y Mozzarella X 5 Kg,FRESH,,Precio regular x kg.: $11.850,11850.0,2025-08-02,Bocaditos
+P44,Rotisería,Bocaditos,Ciabatta Pollo,FRESH,,Precio regular x un: $6.200,6200.0,2025-08-02,Bocaditos
+P45,Rotisería,Bocaditos,Sandwich De Lomito,FRESH,,Precio regular x un: $7.000,7000.0,2025-08-02,Bocaditos
+P46,Rotisería,Ciabattas,Ciabatta Pollo,FRESH,,Precio regular x un: $6.200,6200.0,2025-08-02,Ciabattas
+P47,Rotisería,Ciabattas,Empanada De Carne X 1 Un,SIN MARCA,,Precio regular x un: $1.900,1900.0,2025-08-02,Ciabattas
+P48,Rotisería,Ciabattas,Vacio Al Horno Rostizado X Kg,SIN MARCA,,Precio regular x kg.: $19.999,19999.0,2025-08-02,Ciabattas
+P49,Rotisería,Cortes de Pollo,Pollo,FRESH,,Precio regular x un: $15.500,15500.0,2025-08-02,Cortes de Pollo
+P50,Rotisería,Cortes de Pollo,Wrap De Pollo,FRESH,,Precio regular x un: $6.750,6750.0,2025-08-02,Cortes de Pollo
+P51,Rotisería,Cortes de Pollo,Ensalada Rusa X Kg,SIN MARCA,,Precio regular x kg.: $14.100,14100.0,2025-08-02,Cortes de Pollo
+P52,Rotisería,Empanadas Congeladas,Empanada De Verdura.,FRESH,,"Precio regular x un: $1.825,09",1825.09,2025-08-02,Empanadas Congeladas
+P53,Rotisería,Empanadas Congeladas,Empanada Carne Congeladas X 1 Un,SIN MARCA,,Precio regular x un: $1.900,1900.0,2025-08-02,Empanadas Congeladas
+P54,Rotisería,Empanadas Congeladas,Empanada Jamon y Queso,ELABORACION PROPIA,,Precio regular x un: $1.700,1700.0,2025-08-02,Empanadas Congeladas
+P55,Rotisería,Empanadas Congeladas,Empanada de Pollo cong,ELABORACION PROPIA,,Precio regular x un: $1.700,1700.0,2025-08-02,Empanadas Congeladas
+P56,Rotisería,Empanadas Congeladas,Empanada de Jamon y Queso CONG,ELABORACION PROPIA,,Precio regular x un: $1.700,1700.0,2025-08-02,Empanadas Congeladas
+P57,Rotisería,Empanadas Congeladas,Ciabatta Pollo,FRESH,,Precio regular x un: $6.200,6200.0,2025-08-02,Empanadas Congeladas
+P58,Rotisería,Empanadas Congeladas,Sandwich De Lomito,FRESH,,Precio regular x un: $7.000,7000.0,2025-08-02,Empanadas Congeladas
