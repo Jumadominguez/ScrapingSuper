@@ -4,13 +4,7 @@
   <meta charset="UTF-8">
   <title>Comparador de Precios</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="creativos/caminando-favicon.png">
-
-  <!-- Bootstrap -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-
   <style>
   .category-dropdown {
     position: relative;
@@ -48,46 +42,11 @@
     padding-left: 2rem;
     font-weight: 500;
   }
-
-  /* Sticky header con logo a la izquierda */
-.sticky-header {
-  position: sticky;
-  top: 0;
-  z-index: 1050;
-  background-color: #fff;
-  padding: 0.5rem 1rem;
-  border-bottom: 1px solid #dee2e6;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-
-/* Logo responsive */
-.sticky-header img {
-  max-width: 100%;
-  height: auto;
-}
-
-@media (min-width: 576px) {
-  .sticky-header img {
-    width: 280px;
-  }
-}
-@media (max-width: 575.98px) {
-  .sticky-header img {
-    width: 180px;
-  }
-}
   </style>
 </head>
 <body class="bg-light">
   <div class="container my-5">
-
-    <!-- Logo alineado a la izquierda y más grande -->
-    <div class="mb-4">
-      <img src="creativos/caminando-logo.png" alt="Logo Caminando" style="width: 280px;">
-    </div>
-
+    <h2 class="mb-4">🛒 Comparador de Precios entre Supermercados</h2>
     <div class="container mb-4">
       <h5>📋 Cargá tus productos para comparar</h5>
       <div class="row g-2 mb-2">
@@ -101,15 +60,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <select class="form-select" id="marca">
-            <option selected disabled>Elegí una opción...</option>
-            <option value="Molinos Ala">Molinos Ala</option>
-            <option value="Arcor">Arcor</option>
-            <option value="La Serenísima">La Serenísima</option>
-            <option value="Coca-Cola">Coca-Cola</option>
-            <option value="Ala">Ala</option>
-            <!-- Podés agregar más marcas acá -->
-          </select>
+          <input type="text" class="form-control" id="marca" placeholder="Marca (ej: Molinos Ala)">
         </div>
         <div class="col-md-4">
           <input type="text" class="form-control" id="presentacion" placeholder="Presentación (ej: 1kg)">
@@ -125,10 +76,7 @@
       </div>
     </div>
   </div>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
   <script src="js/load_db_desplegablePRODUCTO.js"></script>
   <script src="js/functions.js"></script>
-  <script src="Scraping Super/js/jumbo_filter.js"></script>
-  <script src="js/menuOpcionProducto.js"></script>
 </body>
 </html>

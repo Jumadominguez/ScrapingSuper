@@ -94,9 +94,15 @@ function filterCategoryMenu() {
   renderCategoryMenu(filteredTree);
 }
 
-// Al seleccionar una subcategoría, completa el input
+// Al seleccionar una subcategoría, completa el input SOLO con la subcategoría y dispara actualización
 function selectCategory(categoryPath) {
-  document.getElementById('producto').value = categoryPath;
+  const subcategoria = categoryPath.split('>').pop().trim();
+  const input = document.getElementById('producto');
+  input.value = subcategoria;
+
+  // 🔥 Esto dispara el evento 'input' como si el usuario hubiese escrito a mano
+  input.dispatchEvent(new Event('input'));
+  
   filterCategoryMenu();
 }
 
